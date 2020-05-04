@@ -22,7 +22,7 @@ where type = credit|CREDIT|debit|DEBIT
 
 # WEB USAGE:
 REST API is available in heroku:
-- SWAGGER: https://agileengine.herokuapp.com
+- SWAGGER: https://agileenginellc.herokuapp.com
 - UI list: https://agileenginellc.herokuapp.com/balance/list
 
 The app is deployed in HEROKU with a swagger for a more friendly usage. Feel free of clone the project and deploy it locally. Its an Spring Boot project with JAVA 1.8 and more:
